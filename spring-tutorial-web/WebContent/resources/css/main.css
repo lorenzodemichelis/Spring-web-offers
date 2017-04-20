@@ -1,0 +1,51 @@
+.form {
+	width: 600px;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+input[type=text] {
+	width: 250px;
+	padding-left: 10px;
+	margin-left: 10px;
+}
+
+input[type=password] {
+	width: 250px;
+}
+
+textarea {
+	width: 250px;
+	height: 300px;
+}
+
+.label {
+	text-align: right;
+	vertical-align: top;
+}
+
+.control {
+	margin-left: 10px;
+}
+
+.error {
+	color: red;
+	font-size: small;
+	margin-left: 10px;
+}
+
+.valid {
+	color: green;
+	font-size: small;
+	margin-left: 10px;
+}
+
+table.offers {
+	padding: 10px;
+	border: 1px solid black;
+}
+
+.login-error {
+	color: red;
+}
+
